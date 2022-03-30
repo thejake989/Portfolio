@@ -1,5 +1,15 @@
 .topnav {
   display: flex;
-  justify-content: space-between;
-  background-color: rgb(19, 179, 171);
+  justify-content: space-evenly;
+  background-color: #476b6b;
+  font-size: 2rem;
+}
+h1 {
+  color: whitesmoke;
+}
+body {
+  color: whitesmoke;
+  background-image: url("https://img.besthqwallpapers.com/Uploads/16-10-2020/143949/blue-linear-hexagons-4k-hexagons-3d-texture-honeycomb-hexagons-patterns.jpg");
+  font-size: 2rem;
+  background-size: cover;
 }
