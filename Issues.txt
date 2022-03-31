@@ -1,0 +1,24 @@
+*Known issues*
+
+1. Functioning Scolling Links. 
+
+2. Links for sample work. 
+WHEN I click on the link to the section about their work
+THEN the UI scrolls to a section with titled images of the developer's applications.
+
+3. WHEN I am presented with the developer's first application
+THEN that application's image should be larger in size than the others.
+
+4. WHEN I click on the images of the applications
+THEN I am taken to that deployed application.
+
+5. WHEN I resize the page or view the site on various screens and devices
+THEN I am presented with a responsive layout that adapts to my viewport.
+
+6. Project alignment.
+
+7. Space between Projects and Contact me.       Added 20px margin
+
+8. Footer font size too small.      Set to 1.5rem
+
+9. Add project image text. 

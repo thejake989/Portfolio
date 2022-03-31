@@ -8,36 +8,78 @@
   justify-content: space-evenly;
   background-color: #476b6b;
   font-size: 2rem;
+  border: 2px solid #eee;
 }
 
 h1 {
-  color: whitesmoke;
+  color: #eee;
 }
 
 body {
-  color: whitesmoke;
+  color: #eee;
   background-image: url("https://img.besthqwallpapers.com/Uploads/16-10-2020/143949/blue-linear-hexagons-4k-hexagons-3d-texture-honeycomb-hexagons-patterns.jpg");
-  font-size: 2rem;
+  font-size: 1.5rem;
   background-size: cover;
 }
 
-/* Footer */
-footer {
-  padding: 30px 0;
-  clear: both;
-  font-size: 12px;
-  color: #fff;
-  color: #ccc;
-  text-align: center;
-  background: #476b6b;
-}
-
+/* SideBar */
 .sidebar {
   float: right;
   width: 100%;
   max-width: 270px;
   padding: 30px;
   margin-bottom: 20px;
+  margin-top: 20px;
   background: #476b6b;
-  border: 1px solid #ddd;
+  border: 1px solid #eee;
+}
+h3,
+.sidebar h2 {
+  padding-bottom: 20px;
+  margin-bottom: 15px;
+  line-height: 22px;
+  border-bottom: 2px solid #eee;
+}
+
+/* Projects */
+#projects {
+  background-color: #476b6b;
+  border: 2px solid #eee;
+}
+#featured-project {
+
+}
+
+#robots {
+
+}
+
+#project3 {
+
+}
+
+#project4 {
+  
+}
+
+/* Social */
+.social {
+  width: 62px;
+  height: 62px;
+  margin-top: 8px;
+  margin-right: 5px;
+}
+.social:last-child {
+  margin-right: 0;
+}
+
+/* Footer */
+footer {
+  padding: 30px 0;
+  clear: both;
+  font-size: 1.5rem;
+  color: #ccc;
+  text-align: center;
+  background: #476b6b;
+  border: 2px solid #eee;
 }
