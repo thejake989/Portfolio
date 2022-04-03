@@ -1,24 +1,22 @@
 *Known issues*
 
-1. Functioning Scolling Links. 
+1. Functioning Scolling Links.          DONE. Set with ID's.
 
-2. Links for sample work. 
+2. Links for sample work.          
 WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications.
+THEN the UI scrolls to a section with titled images of the developer's applications.            DONE. stack, github, linkedin.
 
-3. WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others.
+3. WHEN I click on the images of the applications
+THEN I am taken to that deployed application.           DONE.
 
-4. WHEN I click on the images of the applications
-THEN I am taken to that deployed application.
+4. MEdiaqueries. 
 
-5. WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport.
+5. Project alignment.           Vertical is good. Need it to be 2x2.
 
-6. Project alignment.
+6. Space between Projects and Contact me.       Added 20px margin
 
-7. Space between Projects and Contact me.       Added 20px margin
+7. Footer font size too small.      Set to 1.5rem
 
-8. Footer font size too small.      Set to 1.5rem
+8. Add project image text. 
 
-9. Add project image text. 
+9. First project needs to be the biggest.          RunBuddy is the largest. 
