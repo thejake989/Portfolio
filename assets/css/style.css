@@ -35,19 +35,10 @@ body {
 #featured-project {
   background-image: url(assets\images\Runbuddy.jpg);
   background-position: center;
-  background-repeat: no-repeat;
   background-size: cover;
-  height: 32vh;
-  width: 75%;
+  height: 38vh;
+  max-width: 75%;
   border: 2px solid #eee;
-}
-
-.text {
-  text-align: center;
-  background-color: rgba(255, 255, 255, 0.2);
-  font-size: 30px;
-  height: 200px;
-  width: 100%;
 }
 
 /*Robot Gladiators*/
@@ -56,7 +47,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   height: 32vh;
-  width: 65%;
+  max-width: 65%;
   border: 2px solid #eee;
 }
 
@@ -66,7 +57,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   height: 32vh;
-  width: 65%;
+  max-width: 65%;
   border: 2px solid #eee;
 }
 
@@ -76,7 +67,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   height: 32vh;
-  width: 65%;
+  max-width: 65%;
   border: 2px solid #eee;
 }
 
