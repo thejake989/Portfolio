@@ -6,7 +6,7 @@
 .topnav {
   display: flex;
   justify-content: space-evenly;
-  background-color: #476b6b;
+  background-color: #142222;
   font-size: 2rem;
   border: 2px solid #eee;
 }
@@ -17,49 +17,31 @@ h1 {
 
 body {
   color: #eee;
-  background-image: url("https://img.besthqwallpapers.com/Uploads/16-10-2020/143949/blue-linear-hexagons-4k-hexagons-3d-texture-honeycomb-hexagons-patterns.jpg");
-  font-size: 1.5rem;
-  background-size: cover;
-}
-
-/* SideBar */
-.sidebar {
-  float: right;
-  width: 100%;
-  max-width: 270px;
-  padding: 30px;
-  margin-bottom: 20px;
-  margin-top: 20px;
-  background: #476b6b;
-  border: 1px solid #eee;
-}
-h3,
-.sidebar h2 {
-  padding-bottom: 20px;
-  margin-bottom: 15px;
-  line-height: 22px;
-  border-bottom: 2px solid #eee;
+  background-image: url("https://3.bp.blogspot.com/-NiSGyTtyc1I/WAoCX71Zn4I/AAAAAAAADsU/ldlp6hNBdskjLnMlM4lN1q0GdO9pjYTjgCLcB/s1600/Coding%2Bbackgrounds%2B41.jpg");
+  font-size: 1.7rem;
+  background-size: auto;
 }
 
 /* Projects */
 #projects {
-  background-color: #476b6b;
+  background-color: #142222;
   border: 2px solid #eee;
 }
+
 #featured-project {
-
+  border: 2px solid #eee;
 }
 
-#robots {
-
+#Robots {
+  border: 2px solid #eee;
 }
-
 #project3 {
-
+  max-width: 600px;
+  border: 2px solid #eee;
 }
 
 #project4 {
-  
+  border: 2px solid #eee;
 }
 
 /* Social */
@@ -73,6 +55,25 @@ h3,
   margin-right: 0;
 }
 
+/* SideBar */
+.sidebar {
+  float: right;
+  width: 100%;
+  max-width: 270px;
+  padding: 30px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background: #142222;
+  border: 2px solid #eee;
+}
+h3,
+.sidebar h2 {
+  padding-bottom: 20px;
+  margin-bottom: 15px;
+  line-height: 22px;
+  border-bottom: 2px solid rgb(0, 0, 0);
+}
+
 /* Footer */
 footer {
   padding: 30px 0;
@@ -80,6 +81,10 @@ footer {
   font-size: 1.5rem;
   color: #ccc;
   text-align: center;
-  background: #476b6b;
+  background: #142222;
   border: 2px solid #eee;
+}
+
+.Jake {
+  float: right;
 }
