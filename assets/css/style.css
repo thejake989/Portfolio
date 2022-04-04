@@ -1,10 +1,15 @@
 /* Box Sizing  */
 * {
   box-sizing: border-box;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 h1 {
   color: rgb(9, 170, 144);
+}
+
+.auth-image {
+  max-width: 100%;
 }
 
 /*Nav links*/
@@ -59,6 +64,7 @@ body {
   height: 32vh;
   max-width: 65%;
   border: 2px solid #eee;
+  scrollbar-shadow-color: chartreuse;
 }
 
 /*Coming soon*/
