@@ -29,16 +29,16 @@ body {
 }
 
 /* Projects */
-
 #projects {
   background-color: #142222;
   border: 2px solid #eee;
   box-sizing: content-box;
+  width: 79%;
 }
 
 /* Run Buddy */
 #featured-project {
-  background-image: url(assets\images\Runbuddy.jpg);
+  background-image: url(assets/images/Runbuddy.jpg);
   background-position: center;
   background-size: cover;
   height: 38vh;
@@ -71,7 +71,7 @@ body {
 #project4 {
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto;
   height: 32vh;
   max-width: 65%;
   border: 2px solid #eee;
@@ -80,15 +80,14 @@ body {
 /* SideBar */
 .sidebar {
   float: right;
-  width: 100%;
-  max-width: 270px;
+  width: 20%;
   padding: 30px;
   margin-bottom: 20px;
   margin-top: 20px;
   background: #142222;
   border: 2px solid #eee;
 }
-h3,
+
 .sidebar h2 {
   padding-bottom: 20px;
   margin-bottom: 15px;
